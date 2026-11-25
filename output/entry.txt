@@ -1,0 +1,1 @@
+Fixed a bug where the brain kept 47 tabs open overnight; background tabs now close automatically so sleep can load.
